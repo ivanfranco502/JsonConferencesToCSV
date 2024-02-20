@@ -1,0 +1,4 @@
+jsons/*
+*.csv
+jsons/ncaab.json
+jsons/ncaaf.json
